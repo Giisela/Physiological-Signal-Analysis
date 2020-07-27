@@ -18,7 +18,7 @@ cvxopt==1.2.3
 cycler==0.10.0
 decorator==4.4.0
 defusedxml==0.6.0
-Django==3.0.2
+Django==3.0.7
 entrypoints==0.3
 et-xmlfile==1.0.1
 Flask==1.0.2
